@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alex Chiriboga</h1>
+<h3 align="center"> I'm a Music Technology Masters Student at McGill University, where I'm interested in sound field reproduction, source separation, and blind stereo upmixing. </h3>
 
 <!--
 **dmachiriboga/dmachiriboga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
